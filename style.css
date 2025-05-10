@@ -1,0 +1,196 @@
+.mobile{
+    width:350px;
+    height:600px;
+    border:5px solid rgba(5, 4, 4, 0.805);
+    border-radius: 15px;
+    margin: auto;
+    /* background-color: rgb(40, 62, 33); */
+    
+    
+}
+
+.top-bar{
+    background-color: rgb(22, 22, 22);
+    padding-top: 5px;
+    
+}
+.arrow1{
+    font-size: 30px;
+    color:white;
+   
+}
+.video-icon{
+    display:inline-block;
+    font-size: 22px;
+    color:white;
+    margin-left: 183px;
+    position: absolute;
+    margin-top:6px;
+}
+.img-profile{
+    border-radius: 50%;
+    height:33px;
+    width:33px;
+    /* border:2px solid  black; */
+    align-self: center;
+   background-color: blanchedalmond;
+    
+}
+.img-div{
+ 
+    display:inline-block;
+ 
+}
+.icon-div1{
+    
+    display:inline-block;
+    
+}
+.name{
+   
+ 
+   position: absolute;
+   margin-top: 6px;
+   margin-left: 10px;
+   color:aliceblue;
+    
+}
+.audio{
+   position: absolute;
+    margin-left: 16px;
+    font-size: 18px;
+    margin-top: 3px;
+}
+.dots{
+    position: absolute;
+    margin-left: 46px;
+    font-size: 18px;
+    margin-top: 3px;
+}
+.chat-page{
+    background-image: url("https://www.sakshi.com/gallery_images/2024/09/5/Actress%20Nivetha%20Thomas%20HD%20Photos_%20%282%29.jpg");
+    filter:brightness(70%);
+    background-size:cover;
+    width:350px;
+    height:520px;
+    position: fixed;
+    overflow-y: auto;
+    scroll-behavior: smooth;
+    scrollbar-width: none;
+    
+
+}
+.bot-bar{
+    background-color:rgb(37, 37, 47) ;
+    width:350px;
+    height:35px;
+    position:fixed;
+    top:578px;
+}
+.day1{
+    position: sticky;
+    top:0;
+    background-color: rgb(12, 1, 22);
+    color:rgb(128, 123, 123);
+    width: fit-content;
+    text-align: center;
+    margin: auto;
+    padding:2px;
+    border-radius: 5px;
+    margin-top: 2px;
+    
+
+}
+.bar{
+    color:rgb(167, 164, 164);
+    display: inline-block;
+    
+}
+.msg-text{
+    background-color: rgb(39, 60, 42);
+    color:white;
+    width: fit-content;
+    padding:2px;
+    border-radius: 4px;
+    font-size: 12px;
+    margin: 2px;
+    margin-left: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.msg-text-receiver{
+    background-color: rgb(14, 19, 14);
+    color:white;
+    width: fit-content;
+    padding:2px;
+    border-radius: 4px;
+    font-size: 12px;
+    margin: 2px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.msg-time{
+    color:rgb(185, 182, 182);
+    font-size: 9px;
+    margin-left: 2px;
+}
+.stricker{
+    display: inline-block;
+    font-size: 21px;
+    margin-left: 5px;
+    margin-top:5px;
+    color:whitesmoke;
+
+}
+.text-input{
+    padding:5px;
+    display: inline-block;
+    
+
+    
+}
+input{
+    border-radius: 10px;
+    height:20px;
+    margin-bottom: 10px;
+   
+    font-size: 15px;
+    
+    
+}
+
+.link{
+    display:inline-block ;
+    font-size: 22px;
+    color:whitesmoke;
+
+}
+.payment{
+    display: inline-block;
+    font-size: 22px;
+    color:whitesmoke;
+
+
+}
+  
+.camera{
+    display: inline-block;
+    font-size: 22px;
+    color:whitesmoke;
+
+
+
+}
+.voice{
+    display: inline-block;
+    margin-left: 10px;
+    font-size: 20px;
+    color:rgb(25, 50, 25);
+    background-color: lime;
+    border:2px solid greenyellow;
+    text-align: center;
+    border-radius: 40%;
+    width:20px;
+   
+    
+}
